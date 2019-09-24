@@ -1,4 +1,8 @@
-RewriteEngine On
-RewriteRule ^$ /static [L]
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
 
-// comment
+   RewriteEngine On
+   RewriteRule ^ /static [L]
+</IfModule>

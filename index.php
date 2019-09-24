@@ -1,114 +1,224 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>CherryTree Market</title>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
-
-  <!-- Favicons -->
-  <link href="img/favicon.png" rel="icon">
-  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
-
-  <!-- Bootstrap CSS File -->
-  <link href="new/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- Libraries CSS Files -->
-  <link href="new/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-  <link href="new/lib/animate/animate.min.css" rel="stylesheet">
-  <link href="new/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-  <link href="new/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-  <link href="new/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
-
-  <!-- Main Stylesheet File -->
-  <link href="new/css/style.css" rel="stylesheet">
-
-  <!-- =======================================================
-    Theme Name: DevFolio
-    Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-    Author: BootstrapMade.com
-    License: https://bootstrapmade.com/license/
-  ======================================================= -->
-</head>
-
-<body id="page-top">
-
-  <!--/ Nav Star /-->
-  <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
+<?php include('header_new.php'); ?>
+<style type="text/css">
+  section img{
+    width:100%;
+  }
+</style>
+    <!--==========================
+      About Section
+    ============================-->
+    <!--Carousel Wrapper-->
+    <section id="about" class="wow fadeInUp">
     <div class="container">
-     <a href=""> <img src="img/play1.png" style='height:60px; width:170px;'></a>
-      <!-- <button class="btn btn-default"><img src="img/play.png" height='30' width='30'>Download on the app store</button> -->
-      <a class="navbar-brand js-scroll" href="#page-top"></a>
-      <button class="grn-button" style='height:60px; width:170px;'>Login / SignUp</button>
+<div id="multi-item-example" class="carousel slide carousel-multi-item carousel-multi-item-2" data-ride="carousel">
+
+  <!--Controls-->
+  <!-- <div class="controls-top">
+    <a class="black-text" href="#multi-item-example" data-slide="prev"><i class="fas fa-angle-left fa-3x pr-3"></i></a>
+    <a class="black-text" href="#multi-item-example" data-slide="next"><i class="fas fa-angle-right fa-3x pl-3"></i></a>
+  </div> -->
+  <!--/.Controls-->
+
+<!--Title start-->
+  <div class="row">
+    <div class="col-md-12" style="text-align:center">
+      <h3>Check Out Our Markets</h3> <br>
     </div>
-  </nav>
-  <!--/ Nav End /-->
+  </div>
+  <!--/.Controls-->
+  <!--Title end-->
+  <div>
+  <div class="carousel-inner" role="listbox">
 
-  <!--/ Intro Skew Star /-->
-  <div id="home" class="intro route bg-image" style="background-image: url(img/intro-bg.jpg)">
-    <div class="overlay-itro"></div>
-    <div class="intro-content display-table">
-      <div class="table-cell">
+    <!--First slide-->
+    <div class="row">
 
-    <div class="container">
-      <div class="row">
-        <div class="col-md-2">
-         
+      <div class="col-md-4 mb-4">
+        <div class="card">
+          <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(38).jpg"
+            alt="Card image cap">
         </div>
-        <div class="col-md-8">
-          <div class="service-box">
-            <!-- <div class="service-ico">
-              <span class="ico-circle"><i class="ion-code-working"></i></span>
-            </div> -->
-            <div class="service-content">
-             <!--  <h1>CherryTree Market</h1>
-              <h2>The Online Farmers Market</h2>
- -->
-               
-
-              <div class="container">
-              	<div class="row">
-              		<div class="col-md-4"><img src="img/apple-touch-icon.png"></div>
-              		<div class="col-md-8"><h1 style="margin-top: 27px;">CherryTree Market</h1><h2>Online Local Food</h2></div>
-              	</div>
-              	<div class="row">
-              		<div class="col-md-4"><a class='btn btn-warning' href="buy.php">I want to: <br> BUY local food</a></div>
-              		<div class="col-md-4"></div>
-              		<div class="col-md-4"><a class="btn btn-success" href="sell.php">I want to: <br> SELL local food</a></div>
-              	</div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-2">
-         
-        </div>
-        
       </div>
-    </div>
 
+      <div class="col-md-4 mb-4">
+        <div class="card">
+          <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(19).jpg"
+            alt="Card image cap">
+        </div>
+      </div>
 
+      <div class="col-md-4 mb-4">
+        <div class="card">
+          <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(42).jpg"
+            alt="Card image cap">
+        </div>
       </div>
     </div>
   </div>
+  <!--/.Slides-->
+  <div class="row">
+    <div class="col-md-12" style="text-align:center">
+     <!-- <span><button class="btn btn-success">View All Markets</button></span> -->
+     <span><button class="grn-button">View All Markets</button></span>
+    </div>
+  </div>
 
-  <!-- JavaScript Libraries -->
-  <script src="new/lib/jquery/jquery.min.js"></script>
-  <script src="new/lib/jquery/jquery-migrate.min.js"></script>
-  <script src="new/lib/popper/popper.min.js"></script>
-  <script src="new/lib/bootstrap/js/bootstrap.min.js"></script>
-  <script src="new/lib/easing/easing.min.js"></script>
-  <script src="new/lib/counterup/jquery.waypoints.min.js"></script>
-  <script src="new/lib/counterup/jquery.counterup.js"></script>
-  <script src="new/lib/owlcarousel/owl.carousel.min.js"></script>
-  <script src="new/lib/lightbox/js/lightbox.min.js"></script>
-  <script src="new/lib/typed/typed.min.js"></script>
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
+</div>
+<!--/.Carousel Wrapper-->
+</div>
+</section>
 
-  <!-- Template Main Javascript File -->
-  <script src="new/js/main.js"></script>
+  <section id="about" class="wow fadeInUp">
+   <div class="container">
+      <div id="multi-item-example" class="carousel slide carousel-multi-item carousel-multi-item-2" data-ride="carousel">
+      <!--Title start-->
 
-</body>
-</html>
+      <div class="row">
+        <div class="col-md-12" style="text-align:center">
+          <h3>Fresh Food Near You</h3> <br>
+        </div>
+      </div>
+        <!--/.Controls-->
+        <!--Title end-->
+        <div class="carousel-inner" role="listbox">
+
+          <!--First slide-->
+          <div class="row">
+
+            <div class="col-md-4 mb-4">
+              <div class="card">
+                <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(38).jpg"
+                  alt="Card image cap">
+              </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+              <div class="card">
+                <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(19).jpg"
+                  alt="Card image cap">
+              </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+              <div class="card">
+                <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(42).jpg"
+                  alt="Card image cap">
+              </div>
+            </div>
+
+          </div>
+        </div>
+        <!--/.Slides-->
+        <div class="row">
+          <div class="col-md-12" style="text-align:center">
+           <span><button  class="grn-button">More Products</button></span>
+          </div>
+        </div>
+
+      </div>
+      <!--/.Carousel Wrapper-->
+      </div>
+</section>
+
+
+    <section id="about" class="wow fadeInUp">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <img src="img/fruits.png" alt="">
+            <!-- <img src="img/tree1.png" alt=""> -->
+            </div>
+
+          <div class="col-lg-6 content">
+            <h2>It's never been easier to buy food locally.</h2> <br>
+            <p>
+              With CherryTree, you can find and buy fresh food directly from local farmers with the push of a button. Checkout our marketplace today-- you might be suprised by what's
+              available near you!
+            </p>
+            <span><button  class="grn-button">Sign Up Now</button></span>
+            <span><button  class="grn-button">Learn More</button></span>
+
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+     <section id="about" class="wow fadeInUp">
+      <div class="container">
+         <div class="row">
+          <div class="col-lg-6">
+            <h2>One-stop shopping for all your fresh food needs</h2> <br>
+            <p>
+              CherryTree lets you browse and compare prices between 
+              all the vendors in your community. Preorder items off your 
+              shopping list for easy pickup from a farmstand or farmers'
+              market. We'll even remind you when it's time to go get your
+              food!               
+            </p>
+            <span style="float: left"><button class="grn-button" style="padding-bottom: 12px;">View Marketplace</button></span>
+            <span style="margin-left:5px;"><button class="btn btn-default"><img src="img/play.png" style="width:20px; height:20px;"> Download on the app store</button></span>
+
+          </div>
+
+          <div class="col-lg-6">
+            <img src="img/mobile.png" alt="">
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+
+     <section id="about" class="wow fadeInUp">
+      <div class="container">
+         <div class="row">
+          <div class="col-lg-6">
+            <img src="img/tractor.png" alt="">
+          </div>
+
+            <div class="col-lg-6">
+            <h2>Support your community <br> and the environment</h2> <br>
+            <p>
+             Buying Local food is a healthy and easy way to
+             reduce your environmental impact. Plus, the 
+             money you spend stays in your community!
+             Use CherryTree to source more of your food 
+             locally and give back to the planet and to 
+             farmers in your area.
+            </p>
+            <span><button  class="grn-button">Read Our Mission</button></span>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+
+     <section id="about" class="wow fadeInUp">
+      <div class="container">
+         <div class="row">
+          <div class="col-lg-12"  style="text-align: center;">
+            <h2>Still have questions? Check out our FAQs or contact us directly.</h2><br>
+           <a href="faqs.php"  class="grn-button"  >Help / FAQs</a>
+          </div>
+
+            <!-- <div class="col-lg-6">
+            <span><a href="faqs.php"><button class="grn-button">Help / FAQs</button></a></span>
+          </div> -->
+        </div>
+
+      </div>
+    </section>
+<?php include('footer.php'); ?> 
+
+<style type="text/css">
+  @media (min-width: 768px) {
+.carousel-multi-item-2 .col-md-4 {
+float: left;
+width: 25%;
+max-width: 100%; } }
+
+.carousel-multi-item-2 .card img {
+border-radius: 2px; }
+</style>
