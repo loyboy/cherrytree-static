@@ -29,7 +29,7 @@
 
             <div class="col-md-4 mb-4">
               <div class="card">
-                <a href="https://www.facebook.com/pages/category/Health-Beauty/Ceces-Garden-2288255551250192/" target="_blank">
+                <a href="https://www.cherrytreemarket.com/app/storefront/farms/" target="_blank">
                   <img class="img-fluid" src="img/ceecee.jpg" height="450" alt="CeCe's Organic Garden"/>
                 </a>
               </div>
@@ -37,7 +37,7 @@
 
             <div class="col-md-4 mb-4">
               <div class="card">
-              <a href="https://nuts-n-more.com" target="_blank">
+              <a href="https://www.cherrytreemarket.com/app/storefront/farms/" target="_blank">
                   <img class="img-fluid" src="img/nutsnmore.jpg" height="450" alt="Nuts N More"/>
                 </a>
               </div>
@@ -45,7 +45,7 @@
 
             <div class="col-md-4 mb-4">
               <div class="card">
-                <a href="https://www.facebook.com/BrynAthynBounty/" target="_blank">
+                <a href="https://www.cherrytreemarket.com/app/storefront/farms/" target="_blank">
                   <img class="img-fluid" src="img/brynathyn.png" alt="Bryn Athyn Bounty Farm">
                 </a>
               </div>
