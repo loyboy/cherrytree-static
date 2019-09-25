@@ -83,9 +83,15 @@
 
       <!-- Links -->
       <ul class="navbar-nav mr-auto">
+      <?php if($_SERVER['REQUEST_URI'] === "/index.php"){  ?>
         <li class="nav-item active">
           <a class="nav-link" href="index.php">Home</a>
         </li>
+      <?php } else { ?>  
+        <li class="nav-item">
+          <a class="nav-link" href="index.php">Home</a>
+        </li>
+      <?php } ?>
         <li class="nav-item">
           <a class="nav-link" href="terms.php">T&C</a>
         </li>

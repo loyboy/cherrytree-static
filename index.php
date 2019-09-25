@@ -17,7 +17,7 @@
 
       <div class="row">
         <div class="col-md-12" style="text-align:center">
-          <h3>Fresh Food Near You</h3> <br>
+          <h3>Some of Our Clients</h3> <br>
         </div>
       </div>
         <!--/.Controls-->
@@ -29,33 +29,36 @@
 
             <div class="col-md-4 mb-4">
               <div class="card">
-                <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(38).jpg"
-                  alt="Card image cap">
+                <a href="https://www.facebook.com/pages/category/Health-Beauty/Ceces-Garden-2288255551250192/" target="_blank">
+                  <img class="img-fluid" src="/img/ceecee.jpg" height="450" alt="CeCe's Organic Garden"/>
+                </a>
               </div>
             </div>
 
             <div class="col-md-4 mb-4">
               <div class="card">
-                <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(19).jpg"
-                  alt="Card image cap">
+              <a href="https://nuts-n-more.com" target="_blank">
+                  <img class="img-fluid" src="/img/nutsnmore.jpg" height="450" alt="Nuts N More"/>
+                </a>
               </div>
             </div>
 
             <div class="col-md-4 mb-4">
               <div class="card">
-                <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(42).jpg"
-                  alt="Card image cap">
+                <a href="https://www.facebook.com/BrynAthynBounty/" target="_blank">
+                  <img class="img-fluid" src="/img/brynathyn.png" alt="Bryn Athyn Bounty Farm">
+                </a>
               </div>
             </div>
 
           </div>
         </div>
         <!--/.Slides-->
-        <div class="row">
+        <!-- <div class="row">
           <div class="col-md-12" style="text-align:center">
            <span><button  class="grn-button">More Products</button></span>
           </div>
-        </div>
+        </div> -->
 
       </div>
       <!--/.Carousel Wrapper-->
@@ -77,8 +80,8 @@
               With CherryTree, you can find and buy fresh food directly from local farmers with the push of a button. Checkout our marketplace today-- you might be suprised by what's
               available near you!
             </p>
-            <span><button  class="grn-button">Sign Up Now</button></span>
-            <span><button  class="grn-button">Learn More</button></span>
+            <span><a class="grn-button" href="https://www.cherrytreemarket.com/app/sign-up">Sign Up Now</a></span>
+           
 
           </div>
         </div>
@@ -86,7 +89,7 @@
       </div>
     </section>
 
-     <section id="about" class="wow fadeInUp">
+    <section id="about" class="wow fadeInUp">
       <div class="container">
          <div class="row">
           <div class="col-lg-6">
