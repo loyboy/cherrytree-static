@@ -87,19 +87,16 @@
           <a class="nav-link" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Features</a>
+          <a class="nav-link" href="terms.php">T&C</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="faqs.php">FAQ</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contact Us</a>
+          <a class="nav-link" href="https://apps.apple.com/us/app/cherrytree-farmers-market/id1355489783" target = "_blank">Download on the app store</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Download on the app store</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Login / SignUp</a>
+          <a class="nav-link" href="https://www.cherrytreemarket.com/app/sign-up" target="_blank">Login / SignUp</a>
         </li>
       </ul>
       <!-- Links -->
@@ -123,14 +120,14 @@
         </div>
 
         <div class="pull-right dwn_login_btns">
-          <button class="btn btn-default" style="margin-right:5px;"><img src="img/play.png" height='20' width='20'> Download on the app store</button>
-          <button class="grn-button" style="float: right;padding-bottom: 11px;">Login/SignUp</button>
+          <a class="btn btn-default" href="https://apps.apple.com/us/app/cherrytree-farmers-market/id1355489783" style="margin-right:5px;"><img src="img/play.png" height='20' width='20'> Download on the app store</a>
+          <a class="grn-button" href="https://www.cherrytreemarket.com/app/sign-up" style="float: right;padding-bottom: 11px;">Login/SignUp</a>
         </div>
        
       </div>
     </header><!-- #header -->
 
-    <center style="background-color: #ffff;padding: 10px;font-size: 15px;border: 1px solid #ddd;">Farmers and local food vendors-- start selling online for free with CherryTree! <a href="#">Learn More</a></center>
+    <center style="background-color: #ffff;padding: 10px;font-size: 15px;border: 1px solid #ddd;">Farmers and local food vendors-- start selling online for free with CherryTree! <a href="https://www.cherrytreemarket.com/">Learn More</a></center>
     <!--==========================
       Intro Section
     ============================-->

@@ -36,22 +36,21 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-      <a href="index.php">
-        <img src="img/favicon.png" width='40'>
-        <a href="index.php" class="scrollto">Cherry<span>Tree</span> Market</a><br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>Online Local Food</span>
-        <!-- Uncomment below if you prefer to use an image logo -->
-        <!-- <a href="#body"><img src="img/logo.png" alt="" title="" /></a>-->
-        </a>
+          <a href="index.php">
+            <img src="img/favicon.png" width='40'>
+            <a href="index.php" class="scrollto">Cherry<span>Tree</span> Market</a><br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span>Online Local Food</span>
+            <!-- Uncomment below if you prefer to use an image logo -->
+            <!-- <a href="#body"><img src="img/logo.png" alt="" title="" /></a>-->
+          </a>
       </div>
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <li class="menu-active"><a href="index.php">Home</a></li>
-          <li><a>Features</a></li>
+          <li><a href="terms.php">T&C</a></li>
           <li><a href="faqs.php">FAQ</a></li>
-          <li><a>Contact Us</a></li>
-          <li><a href="index.php">Login or Sign Up</a></li>
+          <li><a href="https://www.cherrytreemarket.com/app/sign-up" target="_blank">Login or Sign Up</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>

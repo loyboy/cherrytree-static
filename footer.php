@@ -10,7 +10,6 @@
           <div class="copyright">
             Contact Us:<br>
             support@cherrytree.com <br>
-            Phone number. Harrison's cell?
             </div>
         </div>
         <div class="col-lg-4"  align="center">
@@ -19,11 +18,9 @@
         <div class="col-lg-4">
             <div class="copyright">
             CherryTree Market Holdings inc.<br>
-            &copy; Copyright <strong>2019</strong>
+            &copy; Copyright <strong> <?php echo "2017-".date('Y'); ?></strong>
             </div>
-            <div class="credits">
-            Updated: June 15,2019
-            </div>
+           
         </div>
       </div>
       

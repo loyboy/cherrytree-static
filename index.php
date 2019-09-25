@@ -8,65 +8,7 @@
       About Section
     ============================-->
     <!--Carousel Wrapper-->
-    <section id="about" class="wow fadeInUp">
-    <div class="container">
-<div id="multi-item-example" class="carousel slide carousel-multi-item carousel-multi-item-2" data-ride="carousel">
-
-  <!--Controls-->
-  <!-- <div class="controls-top">
-    <a class="black-text" href="#multi-item-example" data-slide="prev"><i class="fas fa-angle-left fa-3x pr-3"></i></a>
-    <a class="black-text" href="#multi-item-example" data-slide="next"><i class="fas fa-angle-right fa-3x pl-3"></i></a>
-  </div> -->
-  <!--/.Controls-->
-
-<!--Title start-->
-  <div class="row">
-    <div class="col-md-12" style="text-align:center">
-      <h3>Check Out Our Markets</h3> <br>
-    </div>
-  </div>
-  <!--/.Controls-->
-  <!--Title end-->
-  <div>
-  <div class="carousel-inner" role="listbox">
-
-    <!--First slide-->
-    <div class="row">
-
-      <div class="col-md-4 mb-4">
-        <div class="card">
-          <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(38).jpg"
-            alt="Card image cap">
-        </div>
-      </div>
-
-      <div class="col-md-4 mb-4">
-        <div class="card">
-          <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(19).jpg"
-            alt="Card image cap">
-        </div>
-      </div>
-
-      <div class="col-md-4 mb-4">
-        <div class="card">
-          <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(42).jpg"
-            alt="Card image cap">
-        </div>
-      </div>
-    </div>
-  </div>
-  <!--/.Slides-->
-  <div class="row">
-    <div class="col-md-12" style="text-align:center">
-     <!-- <span><button class="btn btn-success">View All Markets</button></span> -->
-     <span><button class="grn-button">View All Markets</button></span>
-    </div>
-  </div>
-
-</div>
-<!--/.Carousel Wrapper-->
-</div>
-</section>
+   
 
   <section id="about" class="wow fadeInUp">
    <div class="container">
@@ -156,8 +98,8 @@
               market. We'll even remind you when it's time to go get your
               food!               
             </p>
-            <span style="float: left"><button class="grn-button" style="padding-bottom: 12px;">View Marketplace</button></span>
-            <span style="margin-left:5px;"><button class="btn btn-default"><img src="img/play.png" style="width:20px; height:20px;"> Download on the app store</button></span>
+            <span style="float: left"><a class="grn-button" href="https://www.cherrytreemarket.com/app/sign-up" style="padding-bottom: 12px;">View Marketplace</a></span>
+            <span style="margin-left:5px;"><a class="btn btn-default" href="https://apps.apple.com/us/app/cherrytree-farmers-market/id1355489783"><img src="img/play.png" style="width:20px; height:20px;"> Download on the app store</a></span>
 
           </div>
 
@@ -187,7 +129,7 @@
              locally and give back to the planet and to 
              farmers in your area.
             </p>
-            <span><button  class="grn-button">Read Our Mission</button></span>
+          
           </div>
         </div>
 
