@@ -33,6 +33,36 @@
 
   <!-- JavaScript Libraries -->
   <script src="lib/jquery/jquery.min.js"></script>
+  <script>
+    console.log("Seen the  problem");
+   /* $('div.collapse').on('shown', function () {
+        $(this).parent("div").find(".fa-minus-circle").removeClass("fa-minus-circle").addClass("fa-minus-circle");
+        console.log("Shown div");
+    });
+
+    $('div.collapse').on('hidden', function () {
+        $(this).parent("div").find(".fa-plus-circle").removeClass("fa-plus-circle").addClass("fa-minus-circle");
+        console.log("Minus div");
+    });*/
+    $('.collapse').on('hidden.bs.collapse', function (e) {
+        $('.collapse').eq(1).collapse('show');
+        console.log("Seen the  problem");
+       // e.preventDefault();
+    });
+
+  /*$(document).ready(function(){
+    console.log("Seen the  problem");
+    if ($('div.collapse').is(':visible')) { 
+    // The element is visible, do something
+      $(this).parent("div").find(".fa-minus-circle").removeClass("fa-minus-circle").addClass("fa-minus-circle");
+      console.log("Shown div");      
+    } else {
+        // The element is NOT visible, do something else
+      $(this).parent("div").find(".fa-plus-circle").removeClass("fa-plus-circle").addClass("fa-minus-circle");
+      console.log("Minus div");
+    }
+  });*/
+  </script>
   <script src="lib/jquery/jquery-migrate.min.js"></script>
   <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="lib/easing/easing.min.js"></script>
@@ -48,6 +78,8 @@
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
+
+  
 
 </body>
 </html>

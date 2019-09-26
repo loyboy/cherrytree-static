@@ -1174,3 +1174,11 @@ body.mobile-nav-active #mobile-nav-toggle {
    border-radius: 5px;
    box-shadow: 2px 2px #eee;
 }
+
+[data-toggle="collapse"] .fa:before {   
+  content: "\f139";
+}
+
+[data-toggle="collapse"].collapsed .fa:before {
+  content: "\f13a";
+}

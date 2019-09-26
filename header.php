@@ -48,20 +48,28 @@
       <nav id="nav-menu-container">
         <ul class="nav-menu">
         <?php if($_SERVER['REQUEST_URI'] === "/index.php"){  ?>
-          <li class="menu-active"><a href="index.php">Home</a></li>
+          <li class="menu-active"><a href="index.php">About</a></li>
         <?php } else { ?> 
-          <li><a href="index.php">Home</a></li>
+          <li><a href="index.php">About</a></li>
         <?php } ?> 
-        <?php if($_SERVER['REQUEST_URI'] === "/terms.php"){  ?>
-          <li class="menu-active"><a href="terms.php">T&C</a></li>
-        <?php } else { ?>
-            <li><a href="terms.php">T&C</a></li>
-        <?php } ?>
-        <?php if($_SERVER['REQUEST_URI'] === "/terms.php"){  ?>
-          <li><a href="faqs.php">FAQ</a></li>
-          <?php } else { ?>  
+       
+        <?php if($_SERVER['REQUEST_URI'] === "/faqs.php"){  ?>
           <li class="menu-active"><a href="faqs.php">FAQ</a></li>
+          <?php } else { ?>  
+          <li ><a href="faqs.php">FAQ</a></li>
           <?php } ?>
+
+          <?php if($_SERVER['REQUEST_URI'] === "/terms.php"){  ?>
+          <li class="menu-active"><a href="terms.php">Terms and Conditions & <br/> Privacy Policy </a></li>
+        <?php } else { ?>
+            <li><a href="terms.php">Terms and Conditions & <br/> Privacy Policy</a></li>
+        <?php } ?>
+
+        <?php if($_SERVER['REQUEST_URI'] === "/contactus.php"){  ?>
+          <li class="menu-active"><a href="contactus.php">Contact Us</a></li>
+        <?php } else { ?>
+            <li><a href="contactus.php">Contact Us</a></li>
+        <?php } ?>
           <li><a href="https://www.cherrytreemarket.com/app/sign-up" target="_blank">Login or Sign Up</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->

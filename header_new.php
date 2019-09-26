@@ -76,27 +76,22 @@
     <!-- Collapse button -->
     <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1"
       aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"><span><i
-          class="fa fa-bars"></i></span></button>
+          class="fa fa-bars"></i></span> About </button>
 
     <!-- Collapsible content -->
     <div class="collapse navbar-collapse" id="navbarSupportedContent1">
 
       <!-- Links -->
       <ul class="navbar-nav mr-auto">
-      <?php if($_SERVER['REQUEST_URI'] === "/index.php"){  ?>
-        <li class="nav-item active">
-          <a class="nav-link" href="index.php">Home</a>
-        </li>
-      <?php } else { ?>  
+       
         <li class="nav-item">
-          <a class="nav-link" href="index.php">Home</a>
-        </li>
-      <?php } ?>
-        <li class="nav-item">
-          <a class="nav-link" href="terms.php">T&C</a>
+          <a class="nav-link" href="terms.php">Terms and Conditions</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="faqs.php">FAQ</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contactus.php">Contact US</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://apps.apple.com/us/app/cherrytree-farmers-market/id1355489783" target = "_blank">Download on the app store</a>
