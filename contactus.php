@@ -20,13 +20,13 @@
                 <div class="alert alert-success">
                 <strong>Success!</strong> Your mail has been sent to our Team, and We will get back to you in record time...
               </div>
-            <?php unset($_SESSION["sentmsg"]);} ?>
+            <?php } unset($_SESSION["sentmsg"]); ?>
 
             <?php if (isset($_SESSION["failmsg"])){ ?>
                 <div class="alert alert-warning">
                 <strong>Failed!</strong> Your mail has not been sent to our Team...
               </div>
-            <?php unset($_SESSION["failmsg"]);} ?>
+            <?php }  unset($_SESSION["failmsg"]); ?>
 
             <form method="post" action="">
                 <h3>Drop Us a Message & We will get back to You</h3>
