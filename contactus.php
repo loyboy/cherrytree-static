@@ -67,7 +67,8 @@
        $name = filter_var($_POST['txtName'], FILTER_SANITIZE_STRING);
        $phone = filter_var($_POST['txtPhone'], FILTER_SANITIZE_STRING);
        $msgg = filter_var($_POST['txtMsg'], FILTER_SANITIZE_STRING);
-       $headers = 'From: '.$email;
+      // $headers = 'From: '.$email;
+       $from = "no-reply@cherrytree.com";
        if (mail('loyboy606@gmail.com',"Enquiry >> From cherrytree website", $msgg . "\n\r" . "Name of Sender: " . $name . "\n\r" . "Phone Number: " . $phone , $headers)){
            $_SESSION['sentmsg'] = 1;
        }
