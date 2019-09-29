@@ -94,7 +94,9 @@
           <a class="nav-link" href="contactus.php">Contact US</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://apps.apple.com/us/app/cherrytree-farmers-market/id1355489783" target = "_blank">Download on the app store</a>
+          <a class="nav-link" href="https://apps.apple.com/us/app/cherrytree-farmers-market/id1355489783" target = "_blank">
+           Download from our Store
+          </a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="https://www.cherrytreemarket.com/app/sign-up" target="_blank">Login / SignUp</a>
@@ -121,8 +123,10 @@
         </div>
 
         <div class="pull-right dwn_login_btns">
-          <a class="btn btn-default" href="https://apps.apple.com/us/app/cherrytree-farmers-market/id1355489783" style="margin-right:5px;"><img src="img/play.png" height='20' width='20'> Download on the app store</a>
-          <a class="grn-button" href="https://www.cherrytreemarket.com/app/sign-up" style="float: right;padding-bottom: 11px;">Login/SignUp</a>
+          <a class="btn btn-default" href="https://apps.apple.com/us/app/cherrytree-farmers-market/id1355489783" target="_blank" style="margin-right:5px;"> 
+            <img src="img/play1.png" width="200" height="45"> 
+          </a>
+          <a class="grn-button" href="https://www.cherrytreemarket.com/app/sign-up" style="float: right;margin-top: 3%;">Login/SignUp</a>
         </div>
        
       </div>
