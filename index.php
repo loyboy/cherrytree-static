@@ -17,7 +17,7 @@
 
       <div class="row">
         <div class="col-md-12" style="text-align:center">
-          <h3>Some of Our Clients</h3> <br>
+          <h3>Markets</h3> <br>
         </div>
       </div>
         <!--/.Controls-->
@@ -29,7 +29,7 @@
 
             <div class="col-md-4 mb-4">
               <div class="card">
-                <a href="https://www.cherrytreemarket.com/app/storefront/farms/" target="_blank">
+                <a href="https://www.cherrytreemarket.com/app/storefront/farm/AKRyZsn0BG" target="_blank">
                   <img class="img-fluid" src="img/ceecee.jpg" height="450" alt="CeCe's Organic Garden"/>
                 </a>
               </div>
@@ -37,7 +37,7 @@
 
             <div class="col-md-4 mb-4">
               <div class="card">
-              <a href="https://www.cherrytreemarket.com/app/storefront/farms/" target="_blank">
+              <a href="https://www.cherrytreemarket.com/app/storefront/farm/ASnic8cde1" target="_blank">
                   <img class="img-fluid" src="img/nutsnmore.jpg" height="450" alt="Nuts N More"/>
                 </a>
               </div>
@@ -45,7 +45,7 @@
 
             <div class="col-md-4 mb-4">
               <div class="card">
-                <a href="https://www.cherrytreemarket.com/app/storefront/farms/" target="_blank">
+                <a href="https://www.cherrytreemarket.com/app/storefront/farm/Xsu5eOnqlw" target="_blank">
                   <img class="img-fluid" src="img/brynathyn.png" alt="Bryn Athyn Bounty Farm">
                 </a>
               </div>
@@ -53,12 +53,94 @@
 
           </div>
         </div>
-        <!--/.Slides-->
-        <!-- <div class="row">
-          <div class="col-md-12" style="text-align:center">
-           <span><button  class="grn-button">More Products</button></span>
+        <p> </p>
+         <!--/.Slides-->
+         <div class="row">
+            <div class="col-md-12" style="text-align:center">
+            <!-- <span><button class="btn btn-success">View All Markets</button></span> -->
+            <span><a class="grn-button"  href="https://www.cherrytreemarket.com/app/storefront/markets" target="_blank">View All Markets</a></span>
+            </div>
+        </div>
+        <br/>
+
+      <div class="row">
+        <div class="col-md-12" style="text-align:center">
+          <h3>Products</h3> <br>
+        </div>
+      </div>
+        <!--/.Controls-->
+        <!--Title end-->
+        <div class="carousel-inner" role="listbox">
+
+          <!--First slide-->
+          <div class="row">
+
+          <div class="col-md-4 mb-4">
+                <div class="card card-inverse card-info">
+                    <img class="card-img-top" width="250" height="350" src="http://cherrytreemarket.com/parse/files/3f5db4fb851d3ad146476ab003de0f89FARM/280bef4fb722fcedaea5b6bf40cbdbde_bocajoe2.jpeg">
+                    <div class="card-block">
+                        <figure class="profile profile-inline">
+                            <img src="https://picsum.photos/200/150/?random" class="profile-avatar" alt="" >
+                        </figure>
+                        <h4 class="card-title" style="font-size: 15px;">Peanut's N More</h4>
+                        <div class="card-text">
+                        handmade peanut butter! @ $7.00 each
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <a href="https://cherrytreemarket.com/app/storefront/product/wwE1lAUS9f" target="_blank" class="btn btn-info btn-sm">Buy</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card card-inverse card-info">
+                    <img class="card-img-top" width="250" height="350" src="http://cherrytreemarket.com/parse/files/3f5db4fb851d3ad146476ab003de0f89FARM/5f9df48ac374365987983fc4b1918a7d_jkmarin%40ptd.net.jpeg">
+                    <div class="card-block">
+                        <figure class="profile profile-inline">
+                            <img src="https://picsum.photos/200/150/?random" class="profile-avatar" alt="">
+                        </figure>
+                        <h4 class="card-title" style="font-size: 15px;">Macungie Farmers' Market</h4>
+                        <div class="card-text">
+                        Fresh Tea from the farm! @ $8.00 
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <a href="https://www.cherrytreemarket.com/app/storefront/product/CnS4AHguFU" target="_blank" class="btn btn-info btn-sm">Buy</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card card-inverse card-info" style="padding-bottom: 15px;">
+                    <img class="card-img-top" width="250" height="350" src="http://cherrytreemarket.com/parse/files/3f5db4fb851d3ad146476ab003de0f89FARM/159385ec09a91a8a49c84b5b4df39f6c_CherryGroveFarm.jpeg">
+                    <div class="card-block">
+                        <figure class="profile profile-inline">
+                            <img src="https://picsum.photos/200/150/?random" class="profile-avatar" alt="" >
+                        </figure>
+                        <h4 class="card-title" style="font-size: 15px;">Beef Roast From Grass-Fed Beef</h4>
+                        <div class="card-text">
+                        Beef Roast From Grass-Fed Beef @ $12.00 
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <a href="https://www.cherrytreemarket.com/app/storefront/product/F6gqvhozY4" target="_blank" class="btn btn-info btn-sm">Buy</a>
+                    </div>
+                </div>
+            </div>
+
+           
+
           </div>
-        </div> -->
+        </div>
+        <p></p>
+        <!--/.Slides-->
+        <div class="row">
+            <div class="col-md-12" style="text-align:center">
+            <!-- <span><button class="btn btn-success">View All Markets</button></span> -->
+            <span><a class="grn-button" href="https://www.cherrytreemarket.com/app/storefront/home" target="_blank">View All Products</a></span>
+            </div>
+        </div>
 
       </div>
       <!--/.Carousel Wrapper-->
@@ -101,7 +183,7 @@
               market. We'll even remind you when it's time to go get your
               food!               
             </p>
-            <span style="float: left"><a class="grn-button" href="https://www.cherrytreemarket.com/app/sign-up" style="padding-bottom: 12px;">View Marketplace</a></span>
+            <span style="float: left"><a class="grn-button" href="https://www.cherrytreemarket.com/app/storefront/markets" style="padding-bottom: 12px;">View Marketplace</a></span>
             <span style="margin-left:5px;"><a class="btn btn-default" href="https://apps.apple.com/us/app/cherrytree-farmers-market/id1355489783"><img src="img/play.png" style="width:20px; height:20px;"> Download on the app store</a></span>
 
           </div>

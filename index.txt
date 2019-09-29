@@ -62,3 +62,30 @@
 <!--/.Carousel Wrapper-->
   </div>
 </section>
+
+
+////////////////////////////////////////
+
+ <div class="col-md-4 mb-4">
+              <div class="card">
+                <a href="https://cherrytreemarket.com/app/storefront/product/wwE1lAUS9f" target="_blank">
+                  <img class="img-fluid" src="http://cherrytreemarket.com/parse/files/3f5db4fb851d3ad146476ab003de0f89FARM/280bef4fb722fcedaea5b6bf40cbdbde_bocajoe2.jpeg" height="450" alt="Peanut's And More"/>
+                </a>
+              </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+              <div class="card">
+              <a href="https://www.cherrytreemarket.com/app/storefront/product/CnS4AHguFU" target="_blank">
+                  <img class="img-fluid" src="http://cherrytreemarket.com/parse/files/3f5db4fb851d3ad146476ab003de0f89FARM/5f9df48ac374365987983fc4b1918a7d_jkmarin%40ptd.net.jpeg" height="450" alt="Nuts N More"/>
+                </a>
+              </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+              <div class="card">
+                <a href="https://www.cherrytreemarket.com/app/storefront/farms/" target="_blank">
+                  <img class="img-fluid" src="img/brynathyn.png" alt="Bryn Athyn Bounty Farm">
+                </a>
+              </div>
+            </div>
