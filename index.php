@@ -183,8 +183,17 @@
               market. We'll even remind you when it's time to go get your
               food!               
             </p>
-            <span style="float: left"><a class="grn-button" href="https://www.cherrytreemarket.com/app/storefront/markets" style="padding-bottom: 12px;">View Marketplace</a></span>
-            <span style="margin-left:5px;"><a class="btn btn-default" href="https://apps.apple.com/us/app/cherrytree-farmers-market/id1355489783"><img src="img/play.png" style="width:20px; height:20px;"> Download on the app store</a></span>
+            <span style="float: left; margin-top: 3%;" > 
+              <a class="grn-button" href="https://www.cherrytreemarket.com/app/storefront/markets" > 
+                View Marketplace 
+              </a>
+            </span>
+
+            <span style="margin-left:5px;">
+              <a class="btn btn-default" href="https://apps.apple.com/us/app/cherrytree-farmers-market/id1355489783"> 
+                <img src="img/play1.png" style="width:200px; height:45px;"> 
+              </a>
+            </span>
 
           </div>
 

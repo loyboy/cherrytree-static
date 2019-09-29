@@ -104,6 +104,19 @@ Refunds are available at the discretion of the seller. Products may not appear a
   Unless otherwise specified herein, this agreement constitutes the entire agreement between the user and CherryTree Holdings Inc. with respect to the Site and App and it supersedes all prior or contemporaneous communications and proposals, whether electronic, oral or written, between the user and CherryTree with respect to the Platform. A printed version of this agreement and of any notice given in electronic form shall be admissible in judicial or administrative proceedings based upon or relating to this agreement to the same extent and subject to the same conditions as other business documents and records originally generated and maintained in printed form. It is the express wish to the parties that this agreement and all related documents be written in English. 
    </p>
 
+   <h2> Privacy Policy </h2>
+   <p>  
+   Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+    Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.<br>
+    We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
+    We will only retain personal information as long as necessary for the fulfillment of those purposes.<br>
+    We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+    Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.<br>
+    We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. <br>
+    We will make readily available to customers information about our policies and practices relating to the management of personal information. <br>
+    We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+   </p>
+
 </div>
 
             </div>

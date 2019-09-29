@@ -48,25 +48,25 @@
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-        <?php if($_SERVER['REQUEST_URI'] === "/index.php"){  ?>
+        <?php if($_SERVER['REQUEST_URI'] === "/static/index.php"){  ?>
           <li class="menu-active"><a href="index.php">About</a></li>
         <?php } else { ?> 
           <li><a href="index.php">About</a></li>
         <?php } ?> 
        
-        <?php if($_SERVER['REQUEST_URI'] === "/faqs.php"){  ?>
+        <?php if($_SERVER['REQUEST_URI'] === "/static/faqs.php"){  ?>
           <li class="menu-active"><a href="faqs.php">FAQ</a></li>
           <?php } else { ?>  
           <li ><a href="faqs.php">FAQ</a></li>
           <?php } ?>
 
-          <?php if($_SERVER['REQUEST_URI'] === "/terms.php"){  ?>
+          <?php if($_SERVER['REQUEST_URI'] === "/static/terms.php"){  ?>
           <li class="menu-active"><a href="terms.php">Terms and Conditions & <br/> Privacy Policy </a></li>
         <?php } else { ?>
             <li><a href="terms.php">Terms and Conditions & <br/> Privacy Policy</a></li>
         <?php } ?>
 
-        <?php if($_SERVER['REQUEST_URI'] === "/contactus.php"){  ?>
+        <?php if($_SERVER['REQUEST_URI'] === "/static/contactus.php"){  ?>
           <li class="menu-active"><a href="contactus.php">Contact Us</a></li>
         <?php } else { ?>
             <li><a href="contactus.php">Contact Us</a></li>
