@@ -17,7 +17,7 @@
 
       <div class="row">
         <div class="col-md-12" style="text-align:center">
-          <h3>Markets</h3> <br>
+          <h2 style="font-size: 40px;"> <b> Markets </b> </h2> <br>
         </div>
       </div>
         <!--/.Controls-->
@@ -65,7 +65,7 @@
 
       <div class="row">
         <div class="col-md-12" style="text-align:center">
-          <h3>Products</h3> <br>
+          <h2 style="font-size: 40px;"> <b> Products </b> </h2> <br>
         </div>
       </div>
         <!--/.Controls-->
@@ -77,7 +77,7 @@
 
           <div class="col-md-4 mb-4">
                 <div class="card card-inverse card-info">
-                    <img class="card-img-top" width="250" height="350" src="http://cherrytreemarket.com/parse/files/3f5db4fb851d3ad146476ab003de0f89FARM/280bef4fb722fcedaea5b6bf40cbdbde_bocajoe2.jpeg">
+                    <img class="card-img-top" width="250" height="350" src="/img/nutsnmore1.jpg">
                     <div class="card-block">
                         <figure class="profile profile-inline">
                             <img src="https://picsum.photos/200/150/?random" class="profile-avatar" alt="" >
@@ -95,7 +95,7 @@
 
             <div class="col-md-4 mb-4">
                 <div class="card card-inverse card-info">
-                    <img class="card-img-top" width="250" height="350" src="http://cherrytreemarket.com/parse/files/3f5db4fb851d3ad146476ab003de0f89FARM/5f9df48ac374365987983fc4b1918a7d_jkmarin%40ptd.net.jpeg">
+                    <img class="card-img-top" width="250" height="350" src="/img/macungies1.jpg">
                     <div class="card-block">
                         <figure class="profile profile-inline">
                             <img src="https://picsum.photos/200/150/?random" class="profile-avatar" alt="">
@@ -191,7 +191,7 @@
 
             <span style="margin-left:5px;">
               <a class="btn btn-default" href="https://apps.apple.com/us/app/cherrytree-farmers-market/id1355489783"> 
-                <img src="img/play1.png" style="width:200px; height:45px;"> 
+                <img src="img/play1.png" style="width:200px; height:41px;"> 
               </a>
             </span>
 

@@ -44,6 +44,18 @@
         $(this).parent("div").find(".fa-plus-circle").removeClass("fa-plus-circle").addClass("fa-minus-circle");
         console.log("Minus div");
     });*/
+
+    $(document).click(function (event) {
+    console.log("Seen the  problem 2");
+    var clickover = $(event.target);
+    var $navbar = $(".navbar-collapse");               
+    var _opened = $navbar.hasClass("show");
+    if (_opened === true && !clickover.hasClass("navbar-toggle")) {      
+        $navbar.collapse('hide');
+    }
+});
+
+
     $('.collapse').on('hidden.bs.collapse', function (e) {
         $('.collapse').eq(1).collapse('show');
         console.log("Seen the  problem");

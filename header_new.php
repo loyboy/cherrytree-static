@@ -71,12 +71,12 @@
 
 
     <!--humbreger-->
-  <nav class="navbar navbar-light light-blue lighten-4" style="display: inline;float: left;background-color: #fff !important;z-index: 999;">
+  <nav class="navbar navbar-light light-blue lighten-4" style="display: inline;float: right; background-color: #fff !important; z-index: 999;">
 
     <!-- Collapse button -->
-    <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1"
-      aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"><span><i
-          class="fa fa-bars"></i></span> About </button>
+    <button style="margin-top: 10px;" class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1"
+      aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"><span>
+      <i class="fa fa-bars"></i></span> About </button>
 
     <!-- Collapsible content -->
     <div class="collapse navbar-collapse" id="navbarSupportedContent1">
@@ -123,8 +123,8 @@
         </div>
 
         <div class="pull-right dwn_login_btns">
-          <a class="btn btn-default" href="https://apps.apple.com/us/app/cherrytree-farmers-market/id1355489783" target="_blank" style="margin-right:5px;"> 
-            <img src="img/play1.png" width="200" height="45"> 
+          <a class="btn btn-default" href="https://apps.apple.com/us/app/cherrytree-farmers-market/id1355489783" target="_blank" style="margin-right:5px; margin-top: 4px;"> 
+            <img src="img/play12.png"> 
           </a>
           <a class="grn-button" href="https://www.cherrytreemarket.com/app/sign-up" style="float: right;margin-top: 3%;">Login/SignUp</a>
         </div>
