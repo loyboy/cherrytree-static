@@ -77,7 +77,7 @@
 
           <div class="col-md-4 mb-4">
                 <div class="card card-inverse card-info">
-                    <img class="card-img-top" width="250" height="350" src="/img/nutsnmore1.jpg">
+                    <img class="card-img-top" width="250" height="350" src="img/nutsnmore1.jpg">
                     <div class="card-block">
                         <figure class="profile profile-inline">
                             <img src="https://picsum.photos/200/150/?random" class="profile-avatar" alt="" >
@@ -95,7 +95,7 @@
 
             <div class="col-md-4 mb-4">
                 <div class="card card-inverse card-info">
-                    <img class="card-img-top" width="250" height="350" src="/img/macungies1.jpg">
+                    <img class="card-img-top" width="250" height="350" src="img/macungies1.jpg">
                     <div class="card-block">
                         <figure class="profile profile-inline">
                             <img src="https://picsum.photos/200/150/?random" class="profile-avatar" alt="">
